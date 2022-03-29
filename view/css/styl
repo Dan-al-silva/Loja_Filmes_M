@@ -1,0 +1,33 @@
+
+.container{
+background-color: rgba(109, 109, 109, 0.021);right: 50px;
+margin-left: 38%;
+float: left;
+margin-top: 15%;
+
+}
+#text{
+padding-top: 70px;
+padding-left: 50px;
+padding-right: 30px;
+height: 700px;
+width: 400px;
+}
+.body{
+ width: 100%;
+}
+strong{
+color: rgb(154, 139, 168);
+}
+.div{
+  background-color: aliceblue;
+  width: 50px;
+  right: 50px;
+  
+}
+.miranha{
+  float: right;
+}
+"background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center center;
